@@ -9,7 +9,9 @@ Use of Git for version control
 Automated testing of security vulnerabilities, such as SQL injection and cross-site scripting (XSS)
 Testing of web application's Document Object Model (DOM) for accessibility and cross-browser compatibility
 Generation of reports and alerts for security incidents
+
 Getting Started
+
 Prerequisites
 Python 3
 Selenium
